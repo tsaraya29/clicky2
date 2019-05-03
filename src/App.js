@@ -19,6 +19,11 @@ class App extends Component {
           id: 3,
           title: 'gargle',
           completed: false
+        },
+        {
+          id: 4,
+          title: 'gargle',
+          completed: false
         }
                 ] 
                   
